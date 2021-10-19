@@ -1,19 +1,19 @@
 {
-    "name": "fermeturegarage/dolivel",
-    "description": "Utilisation de l'API REST de Dolibarr",
-    "type": "library",
-    "license": "GPL-3.0",
-    "autoload": {
-        "psr-4": {
-            "Fermeturegarage\\Dolivel\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Thomas Savournin",
-            "email": "tosave.vbl@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+	"name": "fermeturegarage/dolivel",
+	"description": "Utilisation de l'API REST de Dolibarr",
+	"type": "library",
+	"license": "GPL-3.0",
+	"autoload": {
+		"psr-4": {
+			"Fermeturegarage\\Dolivel\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Thomas Savournin",
+			"email": "tosave.vbl@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {}
 }
