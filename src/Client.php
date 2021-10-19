@@ -6,6 +6,6 @@ class Client
 {
     public function hi ()
     {
-        print_r("Hello World dans la branche test !");
+        print_r("Hello World (changement via test) !");
     }
 }
