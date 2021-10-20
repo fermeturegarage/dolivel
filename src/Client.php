@@ -1,11 +1,11 @@
 <?php
 
-namespace FermetureGarage\Dolivel;
+namespace Dolivel;
 
 class Client
 {
-	public function hi ()
+	public function hello ()
 	{
-		print_r("Hello World (changement via test) !");
+		return ("Hello World (changement via test) !");
 	}
 }

@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Fermeturegarage\\Dolivel\\' => array($baseDir . '/src'),
+    'Dolivel\\' => array($baseDir . '/src'),
 );
