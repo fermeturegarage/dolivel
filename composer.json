@@ -16,7 +16,9 @@
 	],
 	"minimum-stability": "dev",
 	"require": {
-		"guzzlehttp/guzzle": "^7",
+		"guzzlehttp/guzzle": "^7"
+	}
+	"require-dev": {
 		"laravel/laravel": "^8"
 	}
 }
