@@ -1,5 +1,4 @@
 <?php
-
 namespace Dolivel;
 
 class Client
