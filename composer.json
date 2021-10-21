@@ -16,7 +16,7 @@
 	],
 	"minimum-stability": "dev",
 	"require": {
-		"guzzlehttp/guzzle": "7.4.x-dev",
-		"laravel/laravel": "8.x-dev"
+		"guzzlehttp/guzzle": "^7",
+		"laravel/laravel": "^8"
 	}
 }
