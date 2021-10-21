@@ -16,8 +16,6 @@
 	],
 	"minimum-stability": "dev",
 	"require": {
-<<<<<<< HEAD
 		"guzzlehttp/guzzle": "7.4.x-dev"
-=======
 	}
 }
